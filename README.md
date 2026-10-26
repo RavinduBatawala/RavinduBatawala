@@ -2,7 +2,7 @@
   <h1>Ravindu</h1>
   <p><b>💻 Data Science Undergraduate | Full-Stack Developer</b></p>
   <p>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0052CC?style=flat-square&logo=mail.ru&logoColor=white" alt="Email" /></a>
+    <a href="mailto:ravindubatawala@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0052CC?style=flat-square&logo=mail.ru&logoColor=white" alt="Email" /></a>
     <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>

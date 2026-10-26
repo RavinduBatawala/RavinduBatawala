@@ -1,109 +1,68 @@
 <div align="center">
-  <h2>Hi there, I'm Ravindu! 👋</h2>
-  
-  <p><b>💻 Data Science Undergraduate | Full-Stack Developer | Technical Lead</b></p>
-  
+  <h1>Ravindu</h1>
+  <p><b>Data Scientist | Full-Stack Software Engineer | Technical Founder</b></p>
   <p>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0052CC?style=flat-square&logo=mail.ru&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://fiverr.com/your-profile"><img src="https://img.shields.io/badge/Fiverr-Freelance-00B22D?style=flat-square&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
   </p>
-
-  <!-- Replace the URL below with a link to your own custom banner image hosted on Imgur, Canva, or within this repo -->
-  <img src="https://via.placeholder.com/800x200/8B4513/ffffff?text=Building+ideas+into+digital+experiences" alt="Banner Image" width="100%" />
-</div>
-
-<br/>
-
-### 🚀 About Me
-
-I'm a **Data Science undergraduate** and startup co-founder passionate about building practical software, analyzing complex datasets, and turning ideas into functional digital products. 
-
-I enjoy working across different areas of software development — from **mobile and web applications to quantitative analytics, machine learning pipelines, and backend systems.**
-
-* Building cross-platform **mobile applications** with Flutter and Dart.
-* Developing modern **full-stack web applications** and real-time platforms.
-* Building **backend services, REST APIs**, and database-driven applications.
-* Exploring **AI-powered solutions**, data pipelines, and quantitative models.
-
----
-
-### 🛠️ What I Build
-
-#### 📱 Mobile Applications
-Cross-platform mobile applications focused on usability, real-time connectivity, and modern development practices.
-
-#### 🌐 Web Applications
-Full-stack web applications combining modern frontend interfaces with scalable backend services, databases, and authentication.
-
-#### 📈 Data Science & ML
-Quantitative analytics platforms, machine learning forecasting models, and data pipelines for financial and business intelligence.
-
-#### ⚙️ Backend & APIs
-Database-driven backend systems, REST APIs, real-time web sockets, and robust cloud integrations.
-
----
-
-### 💻 Tech Stack
-
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
-
-**Databases & Cloud**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-
----
-
-### 📌 Featured Projects
-
-I enjoy turning ideas into practical software solutions across **mobile, full-stack, and data-driven development**.
-
-<div align="center">
-  <a href="https://github.com/your-username?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
-  </a>
 </div>
 
 ---
 
-### 🌱 Currently Exploring
+### 🔬 Executive Summary
 
-* Quantitative stock analytics and ML forecasting pipelines
-* Real-time messaging architecture (Socket.io) and multi-tenant systems
-* Automated CI/CD pipelines via GitHub Actions
-* Scalable software architecture for SaaS applications
-* Advanced cross-platform mobile development
+Data Science undergraduate (NSBM / Plymouth University) and Co-Founder at **VARG Solutions**. I specialize in engineering scalable full-stack applications, real-time messaging architectures, and machine learning pipelines. My focus bridges the gap between advanced quantitative analytics and production-ready enterprise software for local businesses and startups.
+
+---
+
+### 🏗️ Selected Engineering & Data Projects
+
+* **CeyQuant** – A quantitative stock analytics and machine learning platform designed for the Colombo Stock Exchange (CSE), featuring automated data pipelines and forecasting models. *(Python, FastAPI, Supabase, yfinance)*
+* **VARG Solutions (Enterprise Systems)** – Architecting and deploying custom multi-tenant Point of Sale (POS) and inventory management software for commercial clients, utilizing row-level security and custom PostgreSQL triggers. *(React, Next.js, Prisma, Supabase)*
+* **NEED_1** – A cross-platform, real-time voice and chat matchmaking application tailored for tactical FPS gamers, leveraging WebRTC and Node.js backend infrastructure. *(Flutter, Dart, Node.js)*
+* **Team-Task-Board** – A full-stack Kanban task management ecosystem with automated CI testing pipelines. *(React, Node.js, Express, MongoDB, Jest)*
+
+---
+
+### ⚙️ Technical Arsenal
+
+**Languages & Core**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Architecture & Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Frontend & Mobile**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Data Science & Machine Learning**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1D9D58?style=flat-square&logo=scikit-learn&logoColor=white)
+
+---
+
+### 🌐 Current Research & Development
+- Integrating WhatsApp AI sales agents via Meta Cloud API & Gemini API for local commercial deployment.
+- Outward Investment Accounts and quantitative strategies for international equities.
+- Real-time communication architectures (Socket.io) for multi-tenant applications.
 
 ---
 
 <div align="center">
-  <h3>🤝 Let's Connect</h3>
-  <p>I'm always interested in <b>building projects</b>, exploring new technologies, and collaborating with other developers.</p>
-  <p>If you're working on an interesting project or simply want to connect, feel free to reach out.</p>
-
-  <p>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
-  
-  <br/>
-  <p>⭐ <b>Thanks for visiting my profile!</b></p>
+  <p><i>Building robust infrastructure from Colombo, Sri Lanka. Open to high-impact technical collaborations.</i></p>
 </div>

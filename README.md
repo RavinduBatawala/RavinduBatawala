@@ -58,18 +58,16 @@ Retrieval-Augmented Generation system that answers questions from **Central Bank
 <tr>
 <td width="50%" valign="top">
 
-### 🏛️ GovMitra
-Bilingual **Sinhala / English** AI assistant that guides citizens through Sri Lankan government services step by step.
+### 🧠 [Tiny Transformer Language Model](https://github.com/RavinduBatawala/Developing-a-Tiny-Transformer-Language-Model)
+A **GPT-style Transformer built from scratch** in PyTorch (attention, positional embeddings, decoder blocks) and trained on the **TinyStories** dataset to generate short stories.
 
-`AI` `NLP` `React` `Node.js`
+`Python` `PyTorch` `Transformers` `NLP`
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 CSE Market Analysis
-Final-year data science project built on **Colombo Stock Exchange** data: analysis, modelling and insights.
-
-`Python` `Pandas` `scikit-learn` `Jupyter`
+### 🔜 More coming soon
+Currently building new **AI and LLM projects**. Watch this space!
 
 </td>
 </tr>
